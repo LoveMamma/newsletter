@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>DMITnewsletter</title>
+<link href="thrColFixHdr.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+
+<div class="container">
+  <div class="header"><a href="#"><img src="header.jpg" width="957" height="357"></a> 
+    <!-- end .header --></div>
+  <div class="sidebar1">
+    <p><img src="56233_large.png" width="299" height="182"><img src="55510_large.png" width="299" height="183" class="sidebar1"></p>
+    <!-- end .sidebar1 --></div>
+    
+  <div class="content">
+    <table width="401" height="445" border="2">
+      <tr>
+        <th width="386" height="180" scope="col"><p>5 Classes at La Jolla's Premier Boutique Cycling Studio Only $29</p>
+          <p>&nbsp; </p>
+          <div></div>
+          <div> Regular Price $69.00<br>
+        Savings <strong>$40.00</strong> <span ;=""> | Discount <strong>58%</strong></span></div></th>
+      </tr>
+      <tr>
+        <td height="259"><div>
+          <div>
+            <div>
+              <p align="center"><strong>Shampoo Deep Conditioning &amp; Color or Partial Highlights Only $49</strong></p>
+              <p align="center">Regular Price $99.00<br>
+Savings <strong>$50.00</strong> <span ;=""> | Discount <strong>51%</strong></span></p>
+ 
+        <p>&nbsp;</p>
+        <p>&nbsp;</p></td>
+      </tr>
+    </table>
+</div>
+  
+  
+  
+  <div class="sidebar2">
+ 
+ <p align="center">EVENTS!</p>
+ <p align="center">August 15</p>
+ <p align="center"><a href="http://lajolla.patch.com/groups/events/p/flicks-on-the-bricks-cinema-paradiso">Flicks On The Bricks: Cinema Paradiso</a></p>
+ <p align="center">August 16</p>
+ <p align="center" itemprop="headline"><a href="http://lajolla.patch.com/groups/events/p/twilight-tango--martinis-and-mambo">Twilight Tango & Martinis and Mambo</a>  </p>
+  </div>
+  <div class="footer">
+    <table width="959" height="165" border="1">
+      <tr>
+        <th scope="col">CONTEST INFO
+    Pictures and info and links ohmy!!!</th>
+      </tr>
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <p align="center">Unsubscribe </p>
+    <p align="center">Legal notices </p>
+    <p align="center">DMIT&#8482; &copy;2013</p>
+    
+  
+  <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</html>
